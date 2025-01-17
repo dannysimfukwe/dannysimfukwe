@@ -6,9 +6,9 @@ I ❤️ Ruby on Rails, building products, and enabling businesses to grow throu
 🚀 **Built** [Eaziebuy.com](https://eaziebuy.com) – A mobile-first ecommerce builder  
 
 📚 I’m passionate about:  
-- Helping businesses create seamless online stores  
-- Combining creativity with functionality in product development  
-- Sharing knowledge and learning from the indie hacker community  
+  - **Data Science and Machine Learning** – Harnessing data to drive insights and innovation
+	- **AI** – Building intelligent systems to empower businesses and individuals
+	- **Ethical Hacking** – Strengthening security through responsible and innovative solutions 
 
 🔴 **Failed Projects:**  
 - **Kooclock** – VoIP & Email service  
