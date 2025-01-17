@@ -1,18 +1,18 @@
-Hi there 👋
+Hi there 👋  
 
-I ❤️ Ruby on Rails, building products, and enabling businesses to grow through tech.
+I ❤️ Ruby on Rails, building products, and enabling businesses to grow through tech.  
 
-💼 Currently working at Nawiri Group
-🚀 Built Eaziebuy.com – A mobile-first ecommerce builder
+💼 **Currently working at** Nawiri Group  
+🚀 **Built** [Eaziebuy.com](https://eaziebuy.com) – A mobile-first ecommerce builder  
 
-📚 I’m passionate about:
-	•	Helping businesses create seamless online stores
-	•	Combining creativity with functionality in product development
-	•	Sharing knowledge and learning from the indie hacker community
+📚 I’m passionate about:  
+- Helping businesses create seamless online stores  
+- Combining creativity with functionality in product development  
+- Sharing knowledge and learning from the indie hacker community  
 
-🔴 Failed Projects:
-	•	Kooclock – VoIP & Email service
-	•	Megamatic Ads – Facebook Ads management platform
-	•	…and many other lessons disguised as failures 😅
+🔴 **Failed Projects:**  
+- **Kooclock** – VoIP & Email service  
+- **Megamatic Ads** – Facebook Ads management platform  
+- ...and many other lessons disguised as failures 😅  
 
-Feel free to connect with me on LinkedIn or drop me a message!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dannysimfukwe) or drop me a message!  
