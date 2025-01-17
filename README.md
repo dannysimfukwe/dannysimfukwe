@@ -5,6 +5,7 @@ I ❤️ Ruby on Rails, building products, and enabling businesses to grow throu
 💼 **Currently working at** Nawiri Group as a Senior Engineer
 
 💼 **Previously** worked at [Platform45](https://www.platform45.com) as RoR Engineer, at [Scrums.com (previously Sovtech) ](https://www.scrums.com), and many other companies over the years.
+
 🚀 **Built** [Eaziebuy.com](https://eaziebuy.com) – A mobile-first ecommerce builder  
 
 📚 I’m passionate about:  
