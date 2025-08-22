@@ -18,4 +18,4 @@ I ❤️ Ruby on Rails, building products, and enabling businesses to grow throu
 - **Megamatic Ads** – Facebook Ads management platform  
 - ...and many other lessons disguised as failures 😅  
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/danny-simfukwe-841123b5) or drop me a message!  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danny-simfukwe-841123b5) or drop me a message!  
