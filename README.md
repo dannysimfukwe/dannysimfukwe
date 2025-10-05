@@ -2,7 +2,7 @@ Hi there 👋
 
 I’m Danny Simfukwe, a full-stack engineer who loves Ruby on Rails, Rust, and building products that help businesses grow through technology.  
 
-💼 **Currently Building EazieBuy**
+💼 **Currently Building EazieBuy** an AI-powered, drag-and-drop builder for seamless store and website management
 
 💼 **Previously** worked at Nawiri Group as a Senior Engineer, [Platform45](https://www.platform45.com) as RoR Engineer, at [Scrums.com (previously Sovtech) ](https://www.scrums.com), and many other companies over the years.
 
