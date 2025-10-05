@@ -1,6 +1,6 @@
 Hi there 👋  
 
-I’m Danny Simfukwe, a full-stack engineer who loves Ruby on Rails, Rust, and building products that help businesses grow through technology.  
+I’m Danny Simfukwe, a full-stack engineer who enjoys working with Ruby on Rails, Rust, PHP and building products that help businesses grow through technology.  
 
 💼 **Currently Building EazieBuy** an AI-powered, drag-and-drop builder for seamless store and website management
 
