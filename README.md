@@ -1,6 +1,6 @@
 Hi there 👋  
 
-I ❤️ Ruby on Rails, building products, and enabling businesses to grow through tech.  
+I’m Danny Simfukwe, a full-stack engineer who loves Ruby on Rails, Rust, and building products that help businesses grow through technology.  
 
 💼 **Currently Building EazieBuy**
 
