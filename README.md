@@ -24,13 +24,10 @@ I’m Danny Simfukwe, a full-stack engineer who enjoys working with Ruby on Rail
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-   <img width="80" />
   <img src="https://cdn.simpleicons.org/react" height="40" alt="ReactJs logo"  />
-  <img width="80" />
   <img src="https://cdn.simpleicons.org/ruby/FF2D20" height="40" alt="Ruby logo"  />
-  <img width="80" />
   <img src="https://cdn.simpleicons.org/rust/FF2D20" height="40" alt="Rust logo"  />
-   <img width="80" />
+  <img width="80" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/livewire?viewbox=auto" height="40" alt="livewire logo"  />
