@@ -25,9 +25,11 @@ I’m Danny Simfukwe, a full-stack engineer who enjoys working with Ruby on Rail
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.simpleicons.org/react" height="40" alt="ReactJs logo"  />
+  
   <img src="https://cdn.simpleicons.org/ruby/FF2D20" height="40" alt="Ruby logo"  />
+  
   <img src="https://cdn.simpleicons.org/rust/FF2D20" height="40" alt="Rust logo"  />
-  <img width="80" />
+  
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/livewire?viewbox=auto" height="40" alt="livewire logo"  />
@@ -55,7 +57,7 @@ I’m Danny Simfukwe, a full-stack engineer who enjoys working with Ruby on Rail
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-
 </div>
+
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danny-simfukwe-841123b5) or drop me a message!  
