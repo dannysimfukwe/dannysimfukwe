@@ -6,7 +6,7 @@ I’m Danny Simfukwe, a full-stack engineer who enjoys working with Ruby on Rail
 
 🚀 **Building:**  
 - [Eaziebuy.com](https://eaziebuy.com) – AI Powered, Drag-and-drop builder, seamless store and website management platform  
-- [stable-cli-rails](https://github.com/dannysimfukwe/stable-rails) – A CLI tool for scaffolding Rails projects quickly and efficiently  
+- [stable-cli-rails](https://github.com/dannysimfukwe/stable-rails) – A CLI tool to manage local Rails applications with automatic Caddy setup on macOS, local trusted HTTPS certificates, and easy start/stop functionality.  
 
 📚 I’m passionate about:  
   - **Data Science and Machine Learning** – Harnessing data to drive insights and innovation  
