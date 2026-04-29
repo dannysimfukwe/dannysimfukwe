@@ -6,7 +6,9 @@ I’m Danny Simfukwe, a full-stack engineer who enjoys working with Ruby on Rail
 
 🚀 **Building:**  
 - [Eaziebuy.com](https://eaziebuy.com) – AI Powered, Drag-and-drop builder, seamless store and website management platform  
-- [stable-cli-rails](https://github.com/dannysimfukwe/stable-rails) – An Open-Source CLI tool to manage local Rails applications with automatic Caddy setup on macOS, local trusted HTTPS certificates, and easy start/stop functionality.  
+- [stable-cli-rails](https://github.com/dannysimfukwe/stable-rails) – An Open-Source CLI tool to manage local Rails applications with automatic Caddy setup on macOS, local trusted HTTPS certificates, and easy start/stop functionality.
+-  [Pints.online](https://pints.online) – Full-featured Point of Sale system for bars and beverage businesses with real-time inventory tracking, cash drawer management, warehouse transfers, and multi-role access control
+
 
 📚 I’m passionate about:  
   - **Data Science and Machine Learning** – Harnessing data to drive insights and innovation  
